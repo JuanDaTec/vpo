@@ -225,7 +225,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 [ Top bar ]*/
 .top-bar {
   height: 40px;
-  background-color: #222;
+  background-color: #27348B;
 }
 
 /*---------------------------------------------*/
@@ -233,7 +233,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
   font-family: Poppins-Regular;
   font-size: 12px;
   line-height: 1.8;
-  color: #b2b2b2;
+  color: #ffffff;
 }
 
 
@@ -244,7 +244,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
   line-height: 1.8;
 
   height: 100%;
-  color: #b2b2b2;
+  color: #ffffff;
   border-right: 1px solid rgba(255,255,255,0.3);
 }
 
@@ -253,7 +253,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 }
 
 .right-top-bar a:hover {
-  color: #6c7ae0;
+  color: #36a9e1;
 }
 
 
@@ -261,7 +261,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 .topbar-mobile li {
   padding: 8px 20px;
   border-top: 1px solid rgba(255,255,255,0.05);
-  background-color: #222;
+  background-color: #27348B;
 }
 
 
@@ -324,7 +324,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
   display: flex;
   align-items: center;
   height: 65%;
-  margin-right: 55px;
+  margin-right: 45px;
 }
 
 .logo img {
@@ -369,7 +369,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 .main-menu > li > a {
   font-family: Poppins-Medium;
   font-size: 14px;
-  color: #333;
+  color: #36A9E1;
   padding: 5px 0px;
   transition: all 0.4s;
   -webkit-transition: all 0.4s;
@@ -440,7 +440,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 /*---------------------------------------------*/
 .main-menu > li:hover > a {
   text-decoration: none;
-  color: #6c7ae0;
+  color: #27348b;
 }
 
 .main-menu > li:hover > .sub-menu {
@@ -638,7 +638,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 
 /*---------------------------------------------*/
 .main-menu > li.active-menu > a {
-  color: #6c7ae0;
+  color: #be1622;
 }
 
 
@@ -2122,9 +2122,9 @@ input.num-product::-webkit-inner-spin-button {
 /*==================================================================
     TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 ==================================================================*/
-.cl0 {color: #fff;}
+.cl0 {color: #fff;} 
 .cl1 {color: #717fe0;}
-.cl2 {color: #333;}
+.cl2 {color: #d9deff;}
 .cl3 {color: #666;}
 .cl4 {color: #999;}
 .cl5 {color: #222;}
@@ -2641,7 +2641,7 @@ input.num-product::-webkit-inner-spin-button {
 ==================================================================*/
 .bg-none {background-color: transparent;}
 .bg0 {background-color: #fff;}
-.bg1 {background-color: #717fe0;}
+.bg1 {background-color: #4D91CD;}
 .bg2 {background-color: #e6e6e6;}
 .bg3 {background-color: #222;}
 .bg5 {background-color: rgba(0,0,0,0.5);}
@@ -2824,7 +2824,7 @@ input.num-product::-webkit-inner-spin-button {
   min-width: 32px;
   border-radius: 7px;
   padding: 0 4px;
-  background-color: #f74877;
+  background-color: #be1622;
 }
 
 .label1.rs1::after {
@@ -3051,7 +3051,7 @@ input.num-product::-webkit-inner-spin-button {
 
 .hov-cl0:hover {color: #fff;}
 .hov-bg0:hover {background-color: #fff;}
-.hov-cl1:hover {color: #717fe0;}
+.hov-cl1:hover {color: #be1622;}
 .hov-bg1:hover {background-color: #717fe0;}
 
 /*---------------------------------------------*/
@@ -3078,9 +3078,9 @@ input.num-product::-webkit-inner-spin-button {
 
 /*---------------------------------------------*/
 .hov-btn1:hover {
-  border-color: #222;
-  background-color: #222;
-  color: #fff;
+  border-color: #FFF;
+  background-color: #FFF;
+  color: #27348B;
 }
 
 .hov-btn1:hover i {
