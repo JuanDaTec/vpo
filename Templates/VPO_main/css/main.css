@@ -161,7 +161,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
   height: 38px;
   bottom: 0px;
   right: 40px;
-  background-color: #717fe0;
+  background-color: #BE1622;
   opacity: 0.5;
   justify-content: center;
   align-items: center;
@@ -181,7 +181,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 
 .btn-back-to-top:hover {
   opacity: 1;
-  background-color: #717fe0;
+  background-color: #BE1622;
 }
 
 @media (max-width: 575px) {
@@ -425,7 +425,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
   font-family: Poppins-Regular;
   font-size: 14px;
   line-height: 1.5;
-  color: #555;
+  color: #27348B;
 
   display: block;
   padding: 8px 20px; 
@@ -458,7 +458,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 }
 
 .sub-menu > li:hover > a {
-  color: #6c7ae0;
+  color: #BE1622;
   text-decoration: none;
 }
 
@@ -511,6 +511,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 /*---------------------------------------------*/
 .wrap-header-mobile .wrap-icon-header {
   flex-grow: unset;
+
 }
 
 
@@ -732,7 +733,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 .main-menu-m {
   padding-top: 10px;
   padding-bottom: 10px;
-  background-color: #717fe0;
+  background-color: #4D91CD;
 }
 
 .main-menu-m > li > a {
@@ -1990,8 +1991,8 @@ input.num-product::-webkit-inner-spin-button {
 }
 
 /*---------------------------------------------*/
-.block1-name {color: #333;}
-.block1-info {color: #555;}
+.block1-name {color: #27348B;}
+.block1-info {color: #27348B;}
 
 /*---------------------------------------------*/
 .block1-txt-child2 {
@@ -2014,7 +2015,7 @@ input.num-product::-webkit-inner-spin-button {
 
 /*---------------------------------------------*/
 .block1-txt:hover {
-  background-color: rgba(103,117,214,0.8);
+  background-color: rgba(54,169,225,0.8);
 }
 
 .block1-txt:hover .block1-txt-child2 {
@@ -3007,7 +3008,7 @@ input.num-product::-webkit-inner-spin-button {
   display: block;
   position: absolute;
   z-index: -1;
-  width: 100%;
+  width: 80%;
   height: 100%;
   border: 3px solid #ccc;
 }
@@ -3061,7 +3062,7 @@ input.num-product::-webkit-inner-spin-button {
 }
 
 .hov-img0 img{
-  width: 100%;
+  width: 80%;
   -webkit-transition: transform 0.9s ease;
   -o-transition: transform 0.9s ease;
   -moz-transition: transform 0.9s ease;
@@ -3125,7 +3126,7 @@ input.num-product::-webkit-inner-spin-button {
   height: 100%;
   top: 0;
   left: 0;
-  background: rgba(103,117,214,0.8);
+  background: rgba(54,169,225,0.8);
   opacity: 0;
   transition: all 0.3s;
   -webkit-transition: all 0.3s;
