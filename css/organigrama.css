@@ -82,7 +82,7 @@
     text-decoration: none;
     color: #000;
     font-family: Poppins-Regular;
-    font-size: 13px;
+    font-size: 15px;
     display: inline-block;
     border-radius: 3px;
     -webkit-border-radius: 5px;
@@ -94,8 +94,8 @@
 
 .org-chart li a:hover,
 .org-chart li a:hover+ul li a {
-    background: #36A9E1;
-    color: #000;
+    background: #27348B ;
+    color: #fff;
     border: 2px solid  #BE1622;
 }
 
